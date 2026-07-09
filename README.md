@@ -41,6 +41,15 @@
 
 English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE_OF_CONDUCT](./CODE_OF_CONDUCT.md)
 
+# 📢 AList Free Version Fork
+
+This repository is a **fork of the last truly free version of AList before commercialization**.  
+The original project announced a **commercialization plan**, including potential **hardware telemetry collection and feature gating for enterprise editions**, which raised significant community concerns about **privacy, transparency, and governance**.  
+
+Therefore, this fork:  
+- **Has changed the default branch from `main` to `free`**, indicating the preserved last free version.  
+- **This repository is no longer maintained and serves solely for the long-term preservation of code and binary releases.**
+
 ## Features
 
 - [x] Multiple storages
